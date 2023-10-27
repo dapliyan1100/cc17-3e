@@ -13,5 +13,7 @@
 - Added user story for Transportation Mode
 - Added user story for Jeepney Fares
 - Added user story for Taxi Fares
-- 
+
+### 10/27/23
+- Started creating the User Dashboard
   
