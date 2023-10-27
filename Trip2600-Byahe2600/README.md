@@ -15,5 +15,7 @@
 - Added user story for Taxi Fares
 
 ### 10/27/23
-- Started creating the User Dashboard
+- Started creating the User Dashboard:
+  > Saved places
+  > Profile Customization
   
