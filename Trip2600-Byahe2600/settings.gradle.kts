@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Trip2600-Byahe2600"
+rootProject.name = "MapsDirection"
 include(":app")
  
