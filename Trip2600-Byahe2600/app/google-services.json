@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989129392284",
+    "project_id": "trip2600v2",
+    "storage_bucket": "trip2600v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989129392284:android:e12323c93c8c150be96d59",
+        "android_client_info": {
+          "package_name": "com.example.mapsdirection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBno7gsoqfsvFKsY1ZpNSFb8541Q9nQCGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
